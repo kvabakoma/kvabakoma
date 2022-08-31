@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @kvabakoma
 
-This is a common GitHub account occasionally used by employees of [Kvaba Interactive](https://kvaba.com). When collaborating on projects where the client owns the GitHub repo, we'd usually use only this account for simplicity.
+This is a common GitHub account occasionally used by employees of [Kvaba Interactive](https://kvaba.com). When clients share their GitHub repo with us, we'd usually use this account for simplicity.
 Behind it there's a bunch of nice people.
 
 If you'd like to reach us:
