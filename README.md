@@ -5,7 +5,7 @@ Behind it there's a bunch of nice people.
 
 If you'd like to reach us:
 [office@kvaba.com](mailto:office@kvaba.com)
-[kvabakoma@gmail.com](mailto:kvabakoma@gmail.com)
+  [kvabakoma@gmail.com](mailto:kvabakoma@gmail.com)
 
 
 <!---
