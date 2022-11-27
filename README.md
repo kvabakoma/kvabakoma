@@ -1,10 +1,9 @@
 - 👋 Hi, I’m @kvabakoma
 
-This is a common GitHub account occasionally used by employees of [Kvaba Interactive](https://kvaba.com). When clients share their GitHub repo with us, we'd usually use this account for simplicity.
-Behind it there's a bunch of nice people.
+This is Nikola Georgiev's GitHub account. I'm a positive IT guy, interested in gaming, educational software and open source..
 
-If you'd like to reach us:  
-[office@kvaba.com](mailto:office@kvaba.com)  
+If you'd like to reach me:  
+[nikola@kvaba.com](mailto:nikola@kvaba.com)  
 [kvabakoma@gmail.com](mailto:kvabakoma@gmail.com)
 
 
