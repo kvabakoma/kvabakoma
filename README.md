@@ -1,6 +1,8 @@
 - 👋 Hi, I’m @kvabakoma
 
-This is Nikola Georgiev's GitHub account. I'm a positive IT guy, interested in gaming, educational software and open source..
+This is Nikola Georgiev's main GitHub account. It is occasionally used by Kvaba Interactive employees as well. 
+
+I'm an IT guy interested in game dev, educational software and open source projects. I'm the ex-founder of [Kvaba Interactive](https://kvaba.com), currently looking for new opportunities.
 
 If you'd like to reach me:  
 [nikola@kvaba.com](mailto:nikola@kvaba.com)  
