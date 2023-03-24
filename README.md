@@ -10,6 +10,7 @@ If you'd like to reach me:
 [nikola@kvaba.com](mailto:nikola@kvaba.com)  
 [kvabakoma@gmail.com](mailto:kvabakoma@gmail.com)
 
+And here's a crocodile: <code>🐊</code>
 
 <!---
 kvabakoma/kvabakoma is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
