@@ -1,8 +1,6 @@
-🙌 Hi, I’m @kvabakoma
+🙌 Hi, I’m @kvabakoma - a.k.a. Nikola Georgiev 🤓
 
-This is Nikola Georgiev's professional GitHub account. 
-
-I'm an IT guy interested in game dev, educational software and open source projects. I'm the founder of [Kvaba Interactive](https://kvaba.com). 
+I'm an IT guy interested in game dev, educational software and open source projects. I'm also the founder of [Kvaba Interactive](https://kvaba.com). 
 
 Always looking for new interesting projects.
 
