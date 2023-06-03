@@ -1,10 +1,12 @@
 🙌 Hi, I’m @kvabakoma - a.k.a. Nikola Georgiev 🤓
 
-I'm an IT guy interested in game dev, educational software and open source projects. I'm also the founder of [Kvaba Interactive](https://kvaba.com). 
+I'm an IT guy interested in game dev, educational software and open source projects. 
 
-Always looking for new interesting projects.
+I'm also the founder of [Kvaba Interactive](https://kvaba.com). 
 
-If you'd like to reach me:  
+-----
+
+If you'd like to reach me (I'm always looking for new interesting projects), drop me a line:  
 [nikola@kvaba.com](mailto:nikola@kvaba.com)  
 [kvabakoma@gmail.com](mailto:kvabakoma@gmail.com)
 
