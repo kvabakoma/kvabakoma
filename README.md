@@ -4,6 +4,8 @@ I'm an IT guy interested in game dev, educational software and open source proje
 
 I'm also the founder of [Kvaba Interactive](https://kvaba.com). 
 
+Since 2023 I've joined Commerzbank as a Chapter Lead in the CICD Cluster.
+
 -----
 
 If you'd like to reach me (I'm always looking for new interesting projects), drop me a line:  
