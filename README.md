@@ -2,7 +2,7 @@
 
 I'm an IT guy interested in game dev, educational software and open source projects. 
 
-I'm also the founder of [Kvaba Interactive](https://kvaba.com) (not operational anymore). 
+I'm also the founder of [Kvaba Interactive](https://kvaba.com) (non-operational anymore). 
 
 Since 2023 I'm a Chapter Lead in the CICD Cluster at Commerzbank DTC Bulgaria.
 
